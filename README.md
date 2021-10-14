@@ -14,9 +14,6 @@ Replacing the ninth graders' math and reading scores with NaN resulted in the fo
 The overall passing percentage for Thomas High School fell to 65%
 The overall passing percentage for the entire district fell to 64.9%
 Thomas High School was no longer included on the list of top five schools.
-
-When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
-
 The overall passing percentages of Thomas High School decreased by 0.11%
 The average scores of Thomas High School for math and reading increased by 0.06
 For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
@@ -24,9 +21,9 @@ For the spending range of $630-644 per student, the overall passing percentage d
 The school rankings have not changed. Thomas High School remains the district's second best performing school, with an overall passing percentage of 90.63 percent among tenth through twelfth students.
 
 ### The Effects of School Budget and School Size
-My analysis uncovered that when per-student spending grows, average scores and passing percentages do not rise. In fact, the highest-performing school in the district (Cabera High School) received $68 less per student than the lowest-performing school (Johnson High School). This implies that there are more important elements influencing average student scores than financing.
+i was very surprised to find that per-student spending has not direct influence over average scores and passing percentages. In fact, the highest-performing school in the district (Cabera High School) received $68 less per student than the lowest-performing school (Johnson High School). This implies that there are more important elements influencing average student scores than financing.
 
-When it comes to school sizes, "Large" Schools (2,000+ students) have the lowest average scores and passing rates. The performance gap between "Small" and "Medium" Size Schools is minimal (about 1 percent ). However, all District schools in this dataset are labeled as "Large." This might indicate that children in this district learn and perform better in smaller, more personal settings.
+When it comes to school sizes, larger schools have the lowest average scores and passing rates. The performance gap between "Small" and "Medium" Size Schools is minimal (about 1 percent ). However, all District schools in this dataset are labeled as "Large" a bigger dataset with more districts schools of all sizes included would result in a more fair analysis. 
 
 ### Charter vs. District Schools
 In this research, charter schools outperformed district schools on average. The top five schools with the highest overall passing percentages are all Charters, whereas the lowest five are all Districts. Charter schools in this dataset were generally classified as "Small" or "Medium" in size. Charter schools have a 36% better overall passing rate than district schools, as seen in the DataFrame below. 
