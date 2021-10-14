@@ -9,11 +9,13 @@ The goal of this project is to evaluate data from a complete School District, su
 ### Results
 This analysis was done twice due to the possibility of academic dishonesty by Thomas High School's ninth grade students. The whole set of student data was used in the first trial of this study but in the second iteration of this research, the ninth-grade students at Thomas High School's results were not included in the calculations. Thomas High School's whole ninth grade class had their scores substituted with NaN. 
 
-Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
 
+#### Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
 The overall passing percentage for Thomas High School fell to 65%
 The overall passing percentage for the entire district fell to 64.9%
 Thomas High School was no longer included on the list of top five schools.
+
+#### However once the NaN's were excluded from the dataframe the following changes occured in the overall results:
 The overall passing percentages of Thomas High School decreased by 0.11%
 The average scores of Thomas High School for math and reading increased by 0.06
 For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
